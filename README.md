@@ -1,3 +1,5 @@
+A custom YouTube UI using REACT and the YouTube API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
