@@ -12,6 +12,7 @@
     "reactstrap": "^8.0.1",
     "styled-components": "^4.4.0"
   },
+  "homepage" : "http://gamlilorien.github.io/react-tube",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
