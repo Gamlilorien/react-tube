@@ -1,4 +1,41 @@
-A custom YouTube UI using REACT and the YouTube API.
+# React-Tube: A Custom REACT YouTube Player
+
+![App Screenshot](react-tube.png)
+
+[Live Demo](https://gamlilorien.github.io/react-tube)
+
+- - -
+
+## Overview
+
+This fully functional single-page application uses the [Reactjs](https://reactjs.org/) framework and the YouTube API to provide a custom and mobile responsive UI for viewing, playing, and searching YouTube.
+
+In addition to React, the app also uses several companion libaries for added options and functionality such as:
+
+* [styled-components](https://www.npmjs.com/package/styled-components) - for easier React Module styling throught use of template literals contained within back ticks ``.
+* [reactstrap](https://www.npmjs.com/package/reactstrap) - for a React version of the popular and powerful Bootstrap library.
+* [axios](https://www.npmjs.com/package/axios) - for the Google/YouTube API calls
+* [Parallax Star Backgroun](https://codepen.io/saransh/pen/BKJun) - pure CSS background animation for a little extra flair.
+
+### Instructions
+
+1. YouTube API key - Anyone wishing to use this project for their own purposes will need to obtain their own YouTube API key from the Google developer console here: https://console.developers.google.com/apis/library/youtube.googleapis.com?q=youtube&id=125bab65-cfb6-4f25-9826-4dcc309bc508&project=bookscan-44301
+
+2. Create an .env file - To keep your API key privite, in the project root directory create a new text file simply titled .env and add to it the following:
+
+        REACT_APP_YOUTUBE_API_KEY=YOUR-API-KEY-HERE
+
+Where you simply replace the "YOUR-API-KEY-HERE" with your actual API key value.
+
+3. NPM Install - if you haven't already, you will need to set your terminal or bash window to the project directory and install all required components prior to running. To do this within your terminal simply type:
+
+        npm install
+
+4. NPM Start - to demo or test the project locally simply use 'npm start' in the terminal to spin up locally (see notes below for more details).
+
+- - -
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
