@@ -17,7 +17,7 @@ class App extends Component {
   //this.setState is required for forcing a render of that component
   componentDidMount() {
     //call that youtube api
-    this.searchYouTube("Rifts RPG")
+    this.searchYouTube("React.js")
   }
 
   searchYouTube = term => {
