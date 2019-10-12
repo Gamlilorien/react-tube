@@ -2,7 +2,7 @@
 
 ![App Screenshot](react-tube.png)
 
-[Live Demo](https://gamlilorien.github.io/react-tube)
+[Live Demo](https://shielded-citadel-76714.herokuapp.com/)
 
 - - -
 
