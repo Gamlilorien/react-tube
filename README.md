@@ -2,8 +2,6 @@
 
 ![App Screenshot](react-tube.png)
 
-[Live Demo](https://shielded-citadel-76714.herokuapp.com/)
-
 - - -
 
 ## Overview
@@ -35,6 +33,9 @@ Where you simply replace the "YOUR-API-KEY-HERE" with your actual API key value.
 
 - - -
 
+* Serve is used to run the production build of the solution
+        npm run build
+        npx serve build
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
