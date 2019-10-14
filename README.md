@@ -13,7 +13,7 @@ In addition to React, the app also uses several companion libaries for added opt
 * [styled-components](https://www.npmjs.com/package/styled-components) - for easier React Module styling throught use of template literals contained within back ticks ``.
 * [reactstrap](https://www.npmjs.com/package/reactstrap) - for a React version of the popular and powerful Bootstrap library.
 * [axios](https://www.npmjs.com/package/axios) - for the Google/YouTube API calls
-* [Parallax Star Backgroun](https://codepen.io/saransh/pen/BKJun) - pure CSS background animation for a little extra flair.
+* [Parallax Star Background](https://codepen.io/saransh/pen/BKJun) - pure CSS background animation for a little extra flair.
 
 ### Instructions
 
